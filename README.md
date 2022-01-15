@@ -1,3 +1,6 @@
+# Vanilla is the best flavour
+
+
 ## Theme
 
 Theme forked from [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
