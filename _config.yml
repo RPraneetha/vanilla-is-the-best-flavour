@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://rpraneetha.github.io'
-baseurl:          '/vanilla-is-the-best-flavour/docs'
+baseurl:          '/vanilla-is-the-best-flavour'
 
 toc:
   enabled: true
